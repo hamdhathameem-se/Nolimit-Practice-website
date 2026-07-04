@@ -1,6 +1,6 @@
 # Nolimit-Practice-website
 # Overview
-NoLimit Website is a responsive website developed as a practice project to improve myfront-end web development skills.The project demonstrates the use of HTML and CSS to crate modern and user friendly website.
+NoLimit Website is a responsive website developed as a practice project to improve myfront-end web development skills.The project demonstrates the use of HTML to crate modern and user friendly website.
 # Features
 *Responsive design
 *Home page
@@ -10,7 +10,6 @@ NoLimit Website is a responsive website developed as a practice project to impro
 *Images and visual content
 ## Technologies Used
 *HTML
-*CSS
 # Project Status
 ##### This project is still under development.I will continue adding new features,improving the design,fixing bugs and enhancing the user experience.
 ##### This project was created as a part of my learning journey in Computing Software Engineering to practice web development
