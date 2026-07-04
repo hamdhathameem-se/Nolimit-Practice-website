@@ -6,8 +6,9 @@ NoLimit Website is a responsive website developed as a practice project to impro
 *Home page
 *About page
 *Contact page
+*Gallery page
 *Navigation menu
-*Images and visual content
+
 ## Technologies Used
 *HTML
 # Project Status
